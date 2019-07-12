@@ -1,0 +1,17 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS TDD course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "tdd",
+    "tests"
+  ],
+  "author": "Gustavo Cardoso",
+  "license": "ISC"
+}
